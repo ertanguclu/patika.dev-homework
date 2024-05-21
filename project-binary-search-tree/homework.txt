@@ -1,0 +1,36 @@
+7 (root):
+
+Sol alt ağaç: [5, 1, 3, 0, 4, 2]
+Sağ alt ağaç: [8, 6, 9]
+5 (7'nin solunda):
+
+Sol alt ağaç: [1, 3, 0, 4, 2]
+Sağ alt ağaç: [6]
+1 (5'in solunda):
+
+Sol alt ağaç: [0]
+Sağ alt ağaç: [3, 2]
+0 (1'in solunda):
+
+Sol alt ağaç: -
+Sağ alt ağaç: -
+3 (1'in sağından):
+
+Sol alt ağaç: [2]
+Sağ alt ağaç: [4]
+2 (3'ün solunda):
+
+Sol alt ağaç: -
+Sağ alt ağaç: -
+4 (3'ün sağından):
+
+Sol alt ağaç: -
+Sağ alt ağaç: -
+8 (7'nin sağından):
+
+Sol alt ağaç: -
+Sağ alt ağaç: [9]
+6 (5'in sağından):
+
+Sol alt ağaç: -
+Sağ alt ağaç: -
