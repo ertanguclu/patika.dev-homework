@@ -1,0 +1,47 @@
+Verilen dizi [16, 21, 11, 8, 12, 22] 
+
+Bölme (Divide):
+Diziyi ortadan ikiye böleriz:
+Sol alt dizi: [16, 21, 11]
+Sağ alt dizi: [8, 12, 22]
+
+Bölme İşleminin Tekrarı:
+Her alt diziyi (sol ve sağ) aynı işleme tabi tutarız. Bu işlem alt diziler tek elemanlı olana kadar devam eder.
+
+Sol alt dizi: [16, 21, 11]
+
+[16, 21] ve [11] olarak bölünür.
+Sol alt dizinin sol kısmı: [16]
+Sol alt dizinin sağ kısmı: [21]
+Sol alt dizinin sağ kısmı: [11]
+
+Sağ alt dizi: [8, 12, 22]
+
+[8] ve [12, 22] olarak bölünür.
+Sağ alt dizinin sol kısmı: [8]
+Sağ alt dizinin sağ kısmı: [12, 22]
+Sağ alt dizinin sağ kısmı: [12]
+Sağ alt dizinin sağ kısmı: [22]
+Birleştirme (Merge):
+Şimdi, tek elemanlı alt dizileri birleştirme zamanı gelir. Her birleştirme adımında iki alt dizi, sıralı bir şekilde birleştirilir.
+
+Sol alt diziler: [16], [21], [11]
+
+[16] ve [21] birleştirilir: [16, 21]
+[16, 21] ve [11] birleştirilir: [11, 16, 21]
+
+Sağ alt diziler: [8], [12], [22]
+
+[8] ve [12] birleştirilir: [8, 12]
+[8, 12] ve [22] birleştirilir: [8, 12, 22]
+Son Birleştirme:
+Son olarak, sol ve sağ alt diziler birleştirilir:
+
+Sol alt dizinin sıralı hali: [11, 16, 21]
+Sağ alt dizinin sıralı hali: [8, 12, 22]
+
+[11, 16, 21] ve [8, 12, 22] birleştirilir ve sıralı bir dizi elde edilir: [8, 11, 12, 16, 21, 22]
+
+Big-O gösterimini
+
+Cevap : O(nlogn)
