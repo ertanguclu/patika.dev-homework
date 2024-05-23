@@ -1,0 +1,15 @@
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\bin\Debug\net8.0\Koleksiyon-Soru-2.exe
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\bin\Debug\net8.0\Koleksiyon-Soru-2.deps.json
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\bin\Debug\net8.0\Koleksiyon-Soru-2.runtimeconfig.json
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\bin\Debug\net8.0\Koleksiyon-Soru-2.dll
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\bin\Debug\net8.0\Koleksiyon-Soru-2.pdb
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\obj\Debug\net8.0\Koleksiyon-Soru-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\obj\Debug\net8.0\Koleksiyon-Soru-2.AssemblyInfoInputs.cache
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\obj\Debug\net8.0\Koleksiyon-Soru-2.AssemblyInfo.cs
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\obj\Debug\net8.0\Koleksiyon-Soru-2.csproj.CoreCompileInputs.cache
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\obj\Debug\net8.0\Koleksiyon-Soru-2.sourcelink.json
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\obj\Debug\net8.0\Koleksiyon-Soru-2.dll
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\obj\Debug\net8.0\refint\Koleksiyon-Soru-2.dll
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\obj\Debug\net8.0\Koleksiyon-Soru-2.pdb
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\obj\Debug\net8.0\Koleksiyon-Soru-2.genruntimeconfig.cache
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\Koleksiyon-Soru-2\obj\Debug\net8.0\ref\Koleksiyon-Soru-2.dll
