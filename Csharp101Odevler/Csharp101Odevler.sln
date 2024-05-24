@@ -5,11 +5,13 @@ VisualStudioVersion = 17.11.34909.67
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev1", "Odev1\Odev1.csproj", "{66ACC568-1343-4816-B5DD-9D774AF79CE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyon-Soru-1", "Koleksiyon-Soru-1\Koleksiyon-Soru-1.csproj", "{9FE9F8A4-6A00-45F1-B37E-D6669DCC9EFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyon-Soru-1", "Koleksiyon-Soru-1\Koleksiyon-Soru-1.csproj", "{9FE9F8A4-6A00-45F1-B37E-D6669DCC9EFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyon-Soru-2", "Koleksiyon-Soru-2\Koleksiyon-Soru-2.csproj", "{1641994D-39C1-4FFC-B2DB-6234EA4F4418}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyon-Soru-2", "Koleksiyon-Soru-2\Koleksiyon-Soru-2.csproj", "{1641994D-39C1-4FFC-B2DB-6234EA4F4418}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyon-Soru-3", "Koleksiyon-Soru-3\Koleksiyon-Soru-3.csproj", "{C5769814-51AE-48CC-9D23-CED861431633}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyon-Soru-3", "Koleksiyon-Soru-3\Koleksiyon-Soru-3.csproj", "{C5769814-51AE-48CC-9D23-CED861431633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonRehberUygulaması", "TelefonRehberUygulaması\TelefonRehberUygulaması.csproj", "{3FC88668-8FEA-4BD4-B0DA-C8393F78FF9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{C5769814-51AE-48CC-9D23-CED861431633}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5769814-51AE-48CC-9D23-CED861431633}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5769814-51AE-48CC-9D23-CED861431633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC88668-8FEA-4BD4-B0DA-C8393F78FF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC88668-8FEA-4BD4-B0DA-C8393F78FF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC88668-8FEA-4BD4-B0DA-C8393F78FF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC88668-8FEA-4BD4-B0DA-C8393F78FF9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\bin\Debug\net8.0\TelefonRehberUygulaması.exe
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\bin\Debug\net8.0\TelefonRehberUygulaması.deps.json
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\bin\Debug\net8.0\TelefonRehberUygulaması.runtimeconfig.json
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\bin\Debug\net8.0\TelefonRehberUygulaması.dll
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\bin\Debug\net8.0\TelefonRehberUygulaması.pdb
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\obj\Debug\net8.0\TelefonRehberUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\obj\Debug\net8.0\TelefonRehberUygulaması.AssemblyInfoInputs.cache
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\obj\Debug\net8.0\TelefonRehberUygulaması.AssemblyInfo.cs
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\obj\Debug\net8.0\TelefonRehberUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\obj\Debug\net8.0\TelefonRehberUygulaması.sourcelink.json
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\obj\Debug\net8.0\TelefonRehberUygulaması.dll
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\obj\Debug\net8.0\refint\TelefonRehberUygulaması.dll
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\obj\Debug\net8.0\TelefonRehberUygulaması.pdb
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\obj\Debug\net8.0\TelefonRehberUygulaması.genruntimeconfig.cache
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TelefonRehberUygulaması\obj\Debug\net8.0\ref\TelefonRehberUygulaması.dll
