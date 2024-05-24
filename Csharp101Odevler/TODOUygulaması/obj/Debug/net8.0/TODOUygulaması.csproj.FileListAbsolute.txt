@@ -1,0 +1,15 @@
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\bin\Debug\net8.0\TODOUygulaması.exe
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\bin\Debug\net8.0\TODOUygulaması.deps.json
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\bin\Debug\net8.0\TODOUygulaması.runtimeconfig.json
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\bin\Debug\net8.0\TODOUygulaması.dll
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\bin\Debug\net8.0\TODOUygulaması.pdb
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\obj\Debug\net8.0\TODOUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\obj\Debug\net8.0\TODOUygulaması.AssemblyInfoInputs.cache
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\obj\Debug\net8.0\TODOUygulaması.AssemblyInfo.cs
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\obj\Debug\net8.0\TODOUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\obj\Debug\net8.0\TODOUygulaması.sourcelink.json
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\obj\Debug\net8.0\TODOUygulaması.dll
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\obj\Debug\net8.0\refint\TODOUygulaması.dll
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\obj\Debug\net8.0\TODOUygulaması.pdb
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\obj\Debug\net8.0\TODOUygulaması.genruntimeconfig.cache
+C:\Users\ETİ\Source\Repos\patika.dev-homework\Csharp101Odevler\TODOUygulaması\obj\Debug\net8.0\ref\TODOUygulaması.dll
