@@ -1,0 +1,105 @@
++---------------------------------------+
+|               Building                |
++---------------------------------------+
+| - floors: int                         |
+| - elevators: List<Elevator>           |
+| - floorsDoors: List<List<FloorDoor>>  |
+| - arrivalBells: List<ArrivalBell>     |
++---------------------------------------+
+| + Building(floors: int, elevatorCount: |
+|   int)                                |
+| + CallElevator(floor: int, direction:  |
+|   Direction)                          |
++---------------------------------------+
+
++---------------------------------------+
+|                Elevator                |
++---------------------------------------+
+| - elevatorId: int                     |
+| - currentFloor: int                   |
+| - destinationFloors: List<int>        |
+| - status: ElevatorStatus              |
+| - doors: List<Door>                   |
+| - controlPanel: ControlPanel          |
+| - observers: List<ElevatorObserver>   |
++---------------------------------------+
+| + Elevator(elevatorId: int)           |
+| + Move()                              |
+| + OpenDoors()                         |
+| + CloseDoors()                        |
+| + AddDestination(floor: int)          |
+| + SetStatus(status: ElevatorStatus)   |
+| + RegisterObserver(observer: ElevatorObserver) |
++---------------------------------------+
+
++---------------------------------------+
+|                 Door                  |
++---------------------------------------+
+| - doorId: int                         |
+| - isOpen: bool                        |
++---------------------------------------+
+| + Door(doorId: int)                   |
+| + Open()                              |
+| + Close()                             |
++---------------------------------------+
+
++---------------------------------------+
+|            FloorDoor                  |
++---------------------------------------+
+| - door: Door                          |
+| - arrivalBell: ArrivalBell            |
++---------------------------------------+
+| + FloorDoor()                         |
+| + Open()                              |
+| + Close()                             |
+| + RingBell()                          |
++---------------------------------------+
+
++---------------------------------------+
+|            ArrivalBell                |
++---------------------------------------+
+| - bellId: int                         |
++---------------------------------------+
+| + Ring()                              |
++---------------------------------------+
+
++---------------------------------------+
+|            ControlPanel               |
++---------------------------------------+
+| - panelId: int                        |
+| - buttons: List<Button>               |
++---------------------------------------+
+| + ControlPanel(panelId: int)          |
+| + PressButton(button: Button)         |
++---------------------------------------+
+
++---------------------------------------+
+|                Button                 |
++---------------------------------------+
+| - buttonId: int                       |
+| - type: ButtonType                    |
++---------------------------------------+
+| + Button(buttonId: int, type: ButtonType) |
++---------------------------------------+
+
++---------------------------------------+
+|           ElevatorObserver            |
++---------------------------------------+
+| + Update(floor: int, status: ElevatorStatus, |
+|   isOpen: bool)                       |
++---------------------------------------+
+
++---------------------------------------+
+|            RandomGenerator            |
++---------------------------------------+
+| + GenerateRandomFloor(currentFloor: int) |
++---------------------------------------+
+
++---------------------------------------+
+|                Clock                  |
++---------------------------------------+
+| - currentTime: DateTime               |
++---------------------------------------+
+| + GetCurrentTime(): DateTime          |
+| + LogEvent(eventDescription: string)  |
++---------------------------------------+
