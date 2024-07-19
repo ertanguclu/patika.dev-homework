@@ -1,0 +1,83 @@
++---------------------------------+
+|           Airline               |
++---------------------------------+
+| - airlineId: int                |
+| - name: string                  |
+| - airplanes: List<Airplane>     |
++---------------------------------+
+| + Airline(airlineId: int, name: |
+|   string)                       |
+| + AddAirplane(airplane: Airplane|
+|   )                             |
+| + ScheduleFlight(flightId: int, |
+|   departureAirport: Airport,    |
+|   destinationAirport: Airport,  |
+|   departureTime: DateTime,      |
+|   pilot: Pilot,                 |
+|   coPilot: Pilot)               |
+| + GetAvailableAirplanes(): List<|
+|   Airplane>                     |
++---------------------------------+
+
++---------------------------------+
+|           Airplane              |
++---------------------------------+
+| - airplaneId: int               |
+| - airplaneType: string          |
+| - isAvailable: bool             |
+| - airline: Airline              |
++---------------------------------+
+| + Airplane(airplaneId: int,    |
+|   airplaneType: string, airline:|
+|   Airline)                      |
+| + MarkAsAvailable()             |
+| + MarkAsUnavailable()           |
++---------------------------------+
+
++---------------------------------+
+|           Flight                |
++---------------------------------+
+| - flightId: int                 |
+| - departureAirport: Airport     |
+| - destinationAirport: Airport   |
+| - departureTime: DateTime       |
+| - pilot: Pilot                  |
+| - coPilot: Pilot                |
+| - airplane: Airplane            |
++---------------------------------+
+| + Flight(flightId: int,         |
+|   departureAirport: Airport,    |
+|   destinationAirport: Airport,  |
+|   departureTime: DateTime,      |
+|   pilot: Pilot,                 |
+|   coPilot: Pilot,               |
+|   airplane: Airplane)           |
+| + AssignAirplane(airplane: Airpl|
+|   ane)                          |
++---------------------------------+
+
++---------------------------------+
+|           Airport               |
++---------------------------------+
+| - airportId: int                |
+| - name: string                  |
++---------------------------------+
+| + Airport(airportId: int, name: |
+|   string)                       |
++---------------------------------+
+
++---------------------------------+
+|            Pilot                |
++---------------------------------+
+| - pilotId: int                  |
+| - name: string                  |
+| - experienceLevel: string       |
+| - airplanesQualified: List<string|
+| - airline: Airline              |
++---------------------------------+
+| + Pilot(pilotId: int, name:     |
+|   string, experienceLevel:      |
+|   string, airline: Airline)     |
+| + AddQualifiedAirplane(type:    |
+|   string)                       |
++---------------------------------+
