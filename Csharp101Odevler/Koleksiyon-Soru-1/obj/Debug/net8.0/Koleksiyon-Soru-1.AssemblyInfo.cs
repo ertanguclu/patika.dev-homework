@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Koleksiyon-Soru-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb0d46faaa98ca309288c5ba270ca35b4eb6fdfe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5448e66183db7d37fb122cca1009a53abb50931a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Koleksiyon-Soru-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Koleksiyon-Soru-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
