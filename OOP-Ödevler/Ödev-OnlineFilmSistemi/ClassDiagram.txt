@@ -1,0 +1,55 @@
++---------------------------------+
+|              User               |
++---------------------------------+
+| - userId: int                   |
+| - username: string              |
+| - isSubscriber: bool            |
+| - credits: int                  |
+| - rentedMovies: List<Movie>     |
++---------------------------------+
+| + User(userId: int, username:   |
+|   string)                       |
+| + PurchaseCredits(amount: int)  |
+| + RentMovie(movie: Movie): bool |
+| + BuyMovie(movie: Movie): bool  |
+| + RequestMovie(title: string)   |
+| + ReturnMovie(movie: Movie)     |
+| + AddRentedMovie(movie: Movie)  |
+| + IsMovieRented(movie: Movie): bool |
++---------------------------------+
+
++---------------------------------+
+|           Subscriber            |
++---------------------------------+
+| - subscriptionId: int           |
+| - user: User                    |
++---------------------------------+
+| + Subscriber(subscriptionId: int,|
+|   user: User)                   |
++---------------------------------+
+
++---------------------------------+
+|             Movie               |
++---------------------------------+
+| - movieId: int                  |
+| - title: string                 |
+| - price: int                    |
+| - isAvailable: bool             |
++---------------------------------+
+| + Movie(movieId: int, title:    |
+|   string, price: int)           |
+| + RentMovie()                   |
+| + BuyMovie()                    |
+| + SetAvailability(available: bool)|
++---------------------------------+
+
++---------------------------------+
+|         MovieRequest            |
++---------------------------------+
+| - requestId: int                |
+| - title: string                 |
+| - isFulfilled: bool             |
++---------------------------------+
+| + MovieRequest(requestId: int,  |
+|   title: string)                |
++---------------------------------+
